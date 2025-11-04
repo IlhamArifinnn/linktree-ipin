@@ -7,26 +7,27 @@ Website ini berfungsi sebagai **halaman profil sederhana** yang menampilkan taut
 
 ## 🚀 Fitur
 
-* Tampilan clean dan responsif.
-* Menggunakan background image penuh.
-* Desain minimalis dengan efek hover interaktif.
-* Tautan cepat ke:
+- Tampilan clean dan responsif.
+- Menggunakan background image penuh.
+- Desain minimalis dengan efek hover interaktif.
+- Tautan cepat ke:
 
-  * Instagram
-  * WhatsApp
-  * Telegram
-  * LinkedIn
-  * Email
-  * Website pribadi
+  - Instagram
+  - WhatsApp
+  - Telegram
+  - LinkedIn
+  - Email
+  - Github
+  - Website pribadi
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
 
-* **HTML5**
-* **CSS3**
-* **Google Fonts** – Font *Space Grotesk*
-* **Font Awesome** – Ikon media sosial
+- **HTML5**
+- **CSS3**
+- **Google Fonts** – Font _Space Grotesk_
+- **Font Awesome** – Ikon media sosial
 
 ---
 
@@ -54,9 +55,9 @@ Tampilan utama menampilkan foto profil di bagian atas, diikuti oleh nama dan des
 
 Dibuat oleh **Ilham Arifin**
 
-* 🌍 Website: [ilhamarifinnn.vercel.app](https://ilhamarifinnn.vercel.app/)
-* 💼 LinkedIn: [linkedin.com/in/ilhamarifinnn](https://www.linkedin.com/in/ilhamarifinnn/)
-* 📧 Email: [ilhamarifinhrp.work@gmail.com](mailto:ilhamarifinhrp.work@gmail.com)
+- 🌍 Website: [ilhamarifinnn.vercel.app](https://ilhamarifinnn.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/ilhamarifinnn](https://www.linkedin.com/in/ilhamarifinnn/)
+- 📧 Email: [ilhamarifinhrp.work@gmail.com](mailto:ilhamarifinhrp.work@gmail.com)
 
 ---
 
