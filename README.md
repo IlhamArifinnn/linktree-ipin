@@ -55,7 +55,7 @@ Tampilan utama menampilkan foto profil di bagian atas, diikuti oleh nama dan des
 
 Dibuat oleh **Ilham Arifin**
 
-- 🌍 Website: [ilhamarifinnn.vercel.app](https://ilhamarifinnn.vercel.app/)
+- 🌍 Website: [ilhmarifin.vercel.app](https://ilhmarifin.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/ilhamarifinnn](https://www.linkedin.com/in/ilhamarifinnn/)
 - 📧 Email: [ilhamarifinhrp.work@gmail.com](mailto:ilhamarifinhrp.work@gmail.com)
 
